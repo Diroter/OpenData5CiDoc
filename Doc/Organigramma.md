@@ -1,6 +1,8 @@
 # <center>Organigramma</center>
 ### Definizione Gruppo Opendata
 <br></br>
+
+#### Bellini Gianni *
 #### Decet Alessandro
 #### Grisi Alberto
 #### Marocchio Enrico
