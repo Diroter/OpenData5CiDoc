@@ -16,4 +16,4 @@
 
 </center>
 
-[scaricabile qua](/Diario_di_Progetto.md)
+[scaricabile qua](Diario_di_Progetto.md)
