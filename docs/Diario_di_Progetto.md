@@ -74,6 +74,6 @@ username: thecet
 psw: root
 ### Directories:
 
-[Progetto](/myworkspace/project) 
+Progetto: /myworkspace/project
 
-[Dkan tools](/myworkspace/dktan-tools) 
+Dkan tools: /myworkspace/dktan-tools
