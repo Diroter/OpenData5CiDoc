@@ -7,7 +7,7 @@
 |:------:|:--------:|:-----:|
 |  DeCet Alessandro | 0.1 | 5/05/2021 |
 | Xiao Simone  | 0.1  | 5/05/2021  |   
-|   |   |   |
+|  Marocchio Enrico | 0.2  |  15/05/2021 |
 |   |   |   |
 |   |   |   |
 <br>
@@ -77,3 +77,23 @@ psw: root
 Progetto: /myworkspace/project
 
 Dkan tools: /myworkspace/dktan-tools
+
+---
+
+# Replica Ambiente Debian
+
+### Ai fini del progetto e`stato utilizzato <u>[Linux Debian V10.9](https://www.debian.org/index.it.html)</u> virtualizzato tramite VirtualBox.
+
+## Step 1
+### Eseguire il download di Linux Debian al seguente <i>[link](https://www.debian.org/index.it.html)</i>
+## Step 2
+### Scaricare un Virtualizzatore (nel nostro caso Virtualbox) <i>[qua](https://www.virtualbox.org/)</i>
+## Step 3
+### Installare Virtualbox e Selezionare "Nuova"
+### Inserire nei campi Tipo e Versione ("Linux" e "Debian 64bit")
+### Requisiti minimi da inserire (2GB Ram e 15GB Spazio su hdd)
+### Finire la creazione della macchina virtuale
+## Step 4
+### Al primo startup, dove verra` richiesto di inserire un file, inserire il file debian.iso appena scaricato.
+## Step 5
+### verificare la funzionalita` della macchina
