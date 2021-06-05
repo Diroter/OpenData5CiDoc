@@ -16,7 +16,7 @@
 
 </center>
 
-### Per l'istallazione di debian e Virtualbox seguire [questa guida](/Diario_di_Progetto.md)
+### Per l'istallazione di debian e Virtualbox seguire [questa guida](https://github.com/Diroter/OpenData5CiDoc/blob/main/docs/Diario_di_Progetto.md)
 
 ---
 
