@@ -33,7 +33,7 @@
 
 </center>
 
-### La Documentazione di tutti gli aspetti del progetto è incarico di Marocchio Enrico che la terrà costantemente aggiornata all'ultima versione
+### La Documentazione di tutti gli aspetti del progetto è compito di Marocchio Enrico che la terrà costantemente aggiornata all'ultima versione
 <br>
 
 ---
